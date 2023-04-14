@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-LoginregApplication<loginreg>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "balaki.loginreg.LoginregApplication",
+      "projectName": "loginreg",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

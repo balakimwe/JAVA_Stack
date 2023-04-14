@@ -1,0 +1,10 @@
+body {
+  background-image: url("/path/to/image.jpg");
+  background-size: cover;
+  background-color: bisque;
+
+}
+
+.line {
+    margin-bottom: 20px;
+}

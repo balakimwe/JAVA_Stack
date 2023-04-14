@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BooksdemoApplication<booksdemo>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "balaki.booksdemo.BooksdemoApplication",
+      "projectName": "booksdemo",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

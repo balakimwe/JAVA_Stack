@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-SaveTravelsApplication<save_travels>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "balaki.save_travels.SaveTravelsApplication",
+      "projectName": "save_travels",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

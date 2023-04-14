@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-OmikujiformApplication<omikujiform>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "balaki.omikujiform.OmikujiformApplication",
+      "projectName": "omikujiform",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

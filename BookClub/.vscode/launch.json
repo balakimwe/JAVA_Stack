@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-BookClubApplication<book_club>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "balaki.book_club.BookClubApplication",
+      "projectName": "book_club",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

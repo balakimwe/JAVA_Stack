@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-FruityloopsApplication<fruityloops>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "balaki.fruityloops.FruityloopsApplication",
+      "projectName": "fruityloops",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Spring Boot-DojoAndNinjasApplication<dojo_and_ninjas>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "balaki.dojo_and_ninjas.DojoAndNinjasApplication",
+      "projectName": "dojo_and_ninjas",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
